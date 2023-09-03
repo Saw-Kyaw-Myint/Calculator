@@ -1,0 +1,17 @@
+{
+  "name": "lp/calculator",
+  "description": "This is my first package",
+  "autoload": {
+    "psr-4": {
+      "Saw-Kyaw-Myint\\Calculator\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Saw-Kyaw-Myint",
+      "email": "scm.sawkyawmyint@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
+}
