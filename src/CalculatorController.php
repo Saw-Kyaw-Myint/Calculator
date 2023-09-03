@@ -1,6 +1,6 @@
 <?php
 
-namespace LP\Calculator;
+namespace SawKyawMyint\Calculator;
 
 use App\Http\Controllers\Controller;
 

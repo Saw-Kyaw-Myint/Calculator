@@ -1,5 +1,5 @@
 {
-  "name": "lp/calculator",
+  "name": "sawkyawmyint/calculator",
   "description": "This is my first package",
   "autoload": {
     "psr-4": {

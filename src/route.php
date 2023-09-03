@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use LP\Calculator\CalculatorController;
+use SawKyawMyint\Calculator\CalculatorController;
 
 Route::get('calculator', function () {
     echo "calculator pakage";
